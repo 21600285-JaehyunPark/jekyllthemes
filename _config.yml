@@ -1,6 +1,6 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
+name: Park Jaehyun
+url: https://21600285-jaehyunpark.github.io/
+description: new page
 
 permalink: /themes/:title/
 
@@ -13,4 +13,4 @@ markdown: rdiscount
 rdiscount:
     extensions: ['smart']
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+exclude: ['Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
